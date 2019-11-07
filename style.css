@@ -1,1 +1,30 @@
+body {
+    background-color: #f5eedb;     
+}
 
+h1 {
+    color:#353834;
+    text-align:center;
+    font-size: 40px;
+}
+
+h2 {
+    color: #585854;
+    text-align:center;
+    font-size:30px;
+    text-decoration: underline;
+}
+
+h4 {
+    color:#a4686d;
+    font-size: 30px;
+    text-align:center;
+
+}
+
+p {
+    width:800;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:20px;
+}
